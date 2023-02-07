@@ -1,0 +1,5 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: Project6, Конфигурация: Debug Win32 ------
+1>Source.cpp
+1>Project6.vcxproj -> C:\Users\User\source\repos\Project6\Debug\Project6.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
